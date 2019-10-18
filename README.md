@@ -2,7 +2,7 @@
 
 [![Latest Stable Version](https://poser.pugx.org/flc/alidayu/v/stable)](https://packagist.org/packages/flc/alidayu)
 [![Total Downloads](https://poser.pugx.org/flc/alidayu/downloads)](https://packagist.org/packages/flc/alidayu)
-![php>=5.4](https://img.shields.io/badge/php->%3D5.4-orange.svg?maxAge=2592000)
+[![Financial Contributors on Open Collective](https://opencollective.com/alidayu/all/badge.svg?label=financial+contributors)](https://opencollective.com/alidayu) ![php>=5.4](https://img.shields.io/badge/php->%3D5.4-orange.svg?maxAge=2592000)
 [![License](https://poser.pugx.org/flc/alidayu/license)](https://packagist.org/packages/flc/alidayu)
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
@@ -128,6 +128,36 @@ print_r($resp->result->model);
         <td align="center"><img src="https://flc.io/static/images/alipay.jpg" width="220"><p>支付宝</p></td>
     </tr>
 </table>
+
+## Contributors
+
+### Code Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+<a href="https://github.com/flc1125/alidayu/graphs/contributors"><img src="https://opencollective.com/alidayu/contributors.svg?width=890&button=false" /></a>
+
+### Financial Contributors
+
+Become a financial contributor and help us sustain our community. [[Contribute](https://opencollective.com/alidayu/contribute)]
+
+#### Individuals
+
+<a href="https://opencollective.com/alidayu"><img src="https://opencollective.com/alidayu/individuals.svg?width=890"></a>
+
+#### Organizations
+
+Support this project with your organization. Your logo will show up here with a link to your website. [[Contribute](https://opencollective.com/alidayu/contribute)]
+
+<a href="https://opencollective.com/alidayu/organization/0/website"><img src="https://opencollective.com/alidayu/organization/0/avatar.svg"></a>
+<a href="https://opencollective.com/alidayu/organization/1/website"><img src="https://opencollective.com/alidayu/organization/1/avatar.svg"></a>
+<a href="https://opencollective.com/alidayu/organization/2/website"><img src="https://opencollective.com/alidayu/organization/2/avatar.svg"></a>
+<a href="https://opencollective.com/alidayu/organization/3/website"><img src="https://opencollective.com/alidayu/organization/3/avatar.svg"></a>
+<a href="https://opencollective.com/alidayu/organization/4/website"><img src="https://opencollective.com/alidayu/organization/4/avatar.svg"></a>
+<a href="https://opencollective.com/alidayu/organization/5/website"><img src="https://opencollective.com/alidayu/organization/5/avatar.svg"></a>
+<a href="https://opencollective.com/alidayu/organization/6/website"><img src="https://opencollective.com/alidayu/organization/6/avatar.svg"></a>
+<a href="https://opencollective.com/alidayu/organization/7/website"><img src="https://opencollective.com/alidayu/organization/7/avatar.svg"></a>
+<a href="https://opencollective.com/alidayu/organization/8/website"><img src="https://opencollective.com/alidayu/organization/8/avatar.svg"></a>
+<a href="https://opencollective.com/alidayu/organization/9/website"><img src="https://opencollective.com/alidayu/organization/9/avatar.svg"></a>
 
 ## License
 
